@@ -20,7 +20,13 @@ body {
   background-color: white;
   position: fixed;
 }
-
+.titulo-acordion {
+  margin-top: 20px;
+  text-align: center;
+}
+.blue{
+  color: #307793;
+}
 .nav-left, .nav-right {
   display: flex;
   justify-content: center;
